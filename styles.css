@@ -1,0 +1,30 @@
+body{
+  font-family:'Dekko';font-size: 22px;
+}
+h1{
+  color:deepSkyBlue;
+  margin-left: auto;
+  margin-right: auto;
+  width:800px;
+
+}
+#form1
+{
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width:800px;
+
+
+}
+
+#circle {
+    background-color:deepSkyBlue;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border:dashed midNightBlue; 1px;
+    transition:all 2.0s ease-in;
+
+
+}
